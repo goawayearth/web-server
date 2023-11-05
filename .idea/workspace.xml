@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d90a12b3-9ce2-46f6-9fac-65c51255194a" name="Changes" comment="master">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HttpServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HttpServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReturnToClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReturnToClient.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="version0" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="version1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QHD8d0TNqLGgHF17XiDhGKKilG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/STUDY/java/IdeaProjects/WebServer",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\STUDY\java\IdeaProjects\WebServer\sources" />
+      <recent name="D:\STUDY\java\IdeaProjects\WebServer\html" />
+      <recent name="D:\STUDY\java\IdeaProjects\WebServer\img" />
+      <recent name="D:\STUDY\java\IdeaProjects\WebServer\txt" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HttpServer">
+    <configuration name="HttpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HttpServer" />
+      <module name="WebServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebServer/html/test.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HttpServer" />
+        <item itemvalue="JavaScript Debug.test.html" />
+        <item itemvalue="Application.HttpServer" />
+        <item itemvalue="JavaScript Debug.test.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d90a12b3-9ce2-46f6-9fac-65c51255194a" name="Changes" comment="" />
+      <created>1685001458459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685001458459</updated>
+      <workItem from="1685001460240" duration="176000" />
+      <workItem from="1685001652532" duration="7127000" />
+      <workItem from="1685015313187" duration="603000" />
+      <workItem from="1685016725639" duration="686000" />
+      <workItem from="1685028181455" duration="483000" />
+      <workItem from="1685031145407" duration="4743000" />
+      <workItem from="1685070112412" duration="906000" />
+      <workItem from="1685087397960" duration="5125000" />
+      <workItem from="1685092949810" duration="1650000" />
+      <workItem from="1685099328455" duration="4278000" />
+      <workItem from="1685115827242" duration="2164000" />
+      <workItem from="1685120632021" duration="316000" />
+      <workItem from="1685205819019" duration="888000" />
+      <workItem from="1685206732851" duration="18000" />
+      <workItem from="1685691011583" duration="1650000" />
+    </task>
+    <task id="LOCAL-00001" summary="Webserver">
+      <created>1685003576516</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685003576516</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Webserver">
+      <created>1685007063165</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685007063165</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Webserver">
+      <created>1685011257212</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685011257212</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Webserver">
+      <created>1685011614719</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685011614719</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Webserver">
+      <created>1685012196359</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685012196360</updated>
+    </task>
+    <task id="LOCAL-00006" summary="version0">
+      <created>1685017415760</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685017415760</updated>
+    </task>
+    <task id="LOCAL-00007" summary="version0">
+      <created>1685070137475</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685070137475</updated>
+    </task>
+    <task id="LOCAL-00008" summary="version0">
+      <created>1685091746229</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1685091746229</updated>
+    </task>
+    <task id="LOCAL-00009" summary="version0">
+      <created>1685092507215</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1685092507215</updated>
+    </task>
+    <task id="LOCAL-00010" summary="version0">
+      <created>1685092785628</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1685092785628</updated>
+    </task>
+    <task id="LOCAL-00011" summary="version0">
+      <created>1685093544610</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1685093544610</updated>
+    </task>
+    <task id="LOCAL-00012" summary="version0">
+      <created>1685094302166</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1685094302166</updated>
+    </task>
+    <task id="LOCAL-00013" summary="version0">
+      <created>1685094552183</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1685094552183</updated>
+    </task>
+    <task id="LOCAL-00014" summary="version0">
+      <created>1685100492115</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1685100492115</updated>
+    </task>
+    <task id="LOCAL-00015" summary="version0">
+      <created>1685104139299</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1685104139299</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Webserver" />
+    <MESSAGE value="version0" />
+    <option name="LAST_COMMIT_MESSAGE" value="version0" />
+  </component>
+</project>
